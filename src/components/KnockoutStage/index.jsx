@@ -6,6 +6,7 @@ function KnockoutStage({ fase }) {
 
     const [ jogos, setJogos ] = useState([])
     const url = `https://raw.githubusercontent.com/samenezes/apifakecopa2023/main/${fase}-copa-2023.json`
+    
 
     useEffect(() => {
         const buscarJogos = async () => {

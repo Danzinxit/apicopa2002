@@ -1,7 +1,7 @@
 .jogo {
-    border: 1px solid #eee;
-    background-color: #f2f2f2;
-    box-shadow: 5px 5px 10px #ccc;
+    border: 1px solid #12bad8;
+    background-color: greenyellow;
+    box-shadow: 5px 5px 10px green;
     margin-bottom: 1rem;
 }
 
